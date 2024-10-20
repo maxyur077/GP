@@ -1,0 +1,54 @@
+Pract 5
+
+1.new project -> click -> 2d
+2.Go to asset —> click on new import →add the image file (png,jpeg).
+3.texture = “default”.
+4.“Wrap type” = “repeat” . 
+5.Apply
+6.Gameobject → 3D object →QUAD → Rename it as “Bcakground”
+7.x = 20 and y = 10
+8.GameObject → light —> directional light.
+9.drag image and drop to main screen.
+10.background -> “ADD COMPONENT” -> script -> new script -> name:scroller -> “create
+and add”
+11.click on script
+12.add code
+13.attach to unity.
+
+
+Pract 6
+1. new project - > click 3D
+2.GameObject → 3D Object → sphere.cretate character
+3.asset -> create -> material
+4.change color
+5. grang and drop color
+6.adjust camera view
+7. click on camera -> enable = should shake
+7.main camera select -> add component -> new script -> shaker(name) -> create
+8.add code
+9.attach to unity.
+
+pract 7
+1.new proeect ->3D
+2.window -> asset store -> search online -> robot kelye -> add to my asset ->download -> import
+3.asset-> unity technologis -> SpaceRobotKyle -> find robot
+4.asset -> create -> animate controller -> rename=running
+5.grag controller to model
+6. animation folder - > add any animation (run..) -> drag and drop
+7.click on model scene
+8.run the project
+
+pract 8
+1. new project -> 3D
+2. download snow mountain image from chrome
+3.hirarchy -> right click - > create empty -rename(background)
+4.game object -> 3d object -> quad -> x=20,y=10
+5. select image(top right side) - > add component -> particle system
+6.glob icon -> off the selection out line
+7.suration =10 , gravity modifier= 1
+8.render -> render mode = material , texture = particle system
+9.adjust radius and angle of snowfall
+10. emission-> suggested value = 100
+11.Velocity over Lifetime -> y = negative value(-7) , Choose Random Between Two Constants to create a natural 
+12.Size over Lifetime-> enable
+13.run project
